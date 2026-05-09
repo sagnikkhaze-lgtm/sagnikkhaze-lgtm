@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sagnik 👋
 
-<!--
-**sagnikkhaze-lgtm/sagnikkhaze-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Class 12 student learning programming with Python and Java.  
+I'm currently building beginner-friendly projects, improving my problem-solving skills, and learning how to use GitHub properly.
 
-Here are some ideas to get you started:
+## What I'm Learning
+- Python programming
+- Java basics and OOP
+- Git and GitHub
+- Problem solving and basic DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building small but useful projects
+- Writing clean and understandable code
+- Creating proper README files for my work
+- Improving step by step
+
+## Project Ideas I'm Working On
+- Mock Test Performance Analyzer
+- College Fee Calculator
+- Student Management System
+- Python Mini Projects
