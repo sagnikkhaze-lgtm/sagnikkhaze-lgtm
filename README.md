@@ -32,4 +32,4 @@ I enjoy building practical software, understanding systems from the ground up, a
 ### 📬 Connect With Me
 
 * **Email:** [sagnikk.haze@gmail.com](mailto:sagnikk.haze@gmail.com)
-* **Instagram:** [@sagnikk.haze](https://instagram.com/sagnikk.haze)
+* **Instagram:** [@sagnikkk.haze](https://instagram.com/sagnikkk.haze)
