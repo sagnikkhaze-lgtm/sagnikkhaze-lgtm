@@ -1,35 +1,64 @@
-# Hi, I'm Sagnik 👋
+<h2 data-importer="text" align="center">HI IM SAGNIK A very enthusiastic software developer</h2>
 
-I am a Computer Science undergraduate (B.Sc. Hons.) at **St. Xavier's College (Autonomous), Kolkata** (Class of 2030).  
-I enjoy building practical software, understanding systems from the ground up, and strengthening my fundamentals in problem-solving and software development.
+###
 
----
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/sagnikkhaze-lgmt/sagnikkhaze-lgmt/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/sagnikkhaze-lgmt/sagnikkhaze-lgmt/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🛠️ Tech & Tools
+###
 
-* **Languages:** C, Python, Java, SQL
-* **Tools & Databases:** Git, GitHub, MySQL, VS Code , 
-* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Systems Programming basics
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="32" alt="apple logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo"  />
+</div>
 
----
+###
 
-### 🚀 What I'm Learning & Exploring
+<img data-importer="image" align="right" height="150" src="https://pin.it/6HhTrX42g"  />
 
-* Low-level programming & memory management in **C**
-* Algorithmic problem-solving and core **Data Structures**
-* Deepening OOP and software architecture fundamentals in **Java** & **Python**
+###
 
----
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-### 📂 Featured & Recent Projects
+###
 
-* **Sports Management System** — A Python & MySQL-backed application to manage fixtures, team rosters, and event statistics.
-* **Academic & Utility Tools** — Building custom performance tracking and automation scripts.
-* **C / DSA Practice Repository** — Implementing core data structures and standard algorithms from scratch.
+<br clear="both">
 
----
+<img data-importer="snake" src="https://raw.githubusercontent.com/sagnikkhaze-lgmt/sagnikkhaze-lgmt/snake-output/snake.svg" alt="Snake animation" />
 
-### 📬 Connect With Me
+###
 
-* **Email:** [sagnikk.haze@gmail.com](mailto:sagnikk.haze@gmail.com)
-* **Instagram:** [@sagnikkk.haze](https://instagram.com/sagnikkk.haze)
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/ 3143vlrkc2edhfkivk7vrlpf5viq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%203143vlrkc2edhfkivk7vrlpf5viq&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
