@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,py,java,c,apple" alt="tech stack" />
 </div>
-
+<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/b2/9d/d4/b29dd4f124bec32659dd8fbe08163e8b.jpg" alt="Profile Visual" />
 <br />
 
 <!-- Social Links (Replace # with your actual profile links) -->
